@@ -97,7 +97,7 @@ form .campo {
     border: none;
     border-radius: 5px;
     padding: 4px;
-    transform: translateY(-11px);
+    transform: translateY(-13px);
 }
 
 form input[type=submit] {
