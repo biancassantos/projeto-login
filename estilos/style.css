@@ -124,7 +124,7 @@ form a.botao {
     width: 100%;
     height: 40px;
     color: var(--cor04);
-    padding-top: 5px;
+    padding-top: 8px;
     margin-top: 5px;
     border: 2px solid var(--cor04);
     border-radius: 5px;
